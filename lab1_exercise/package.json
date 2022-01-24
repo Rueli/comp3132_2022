@@ -1,0 +1,16 @@
+{
+  "name": "lab1_exercise",
+  "version": "1.0.0",
+  "description": "Lab1 exercise file system CRUD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Rudie Habtu Kidane",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
